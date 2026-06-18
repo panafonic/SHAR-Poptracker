@@ -94,8 +94,8 @@
 				"map_locations": [
                     {
                         "map": "level1",
-                        "x": 1738,
-                        "y": 784,
+                        "x": 1744,
+                        "y": 780,
                         "size": 20,
 					}
 				]
@@ -538,7 +538,7 @@
                 ]
             },
             {
-                "name": "GAG",
+                "name": "GAG 1",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -551,13 +551,51 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level1",
+                        "x": 1710,
+                        "y": 625,
+                        "size": 20,
+					}
+				]
+			},
+            {
+                "name": "GAG 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "homergagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Swings Besides Blue House",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level1",
+                        "x": 1736,
+                        "y": 781,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "GAG 3-4-5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "homergagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Simpsons Grill",
                         "access_rules": [],
@@ -575,25 +613,101 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level1",
+                        "x": 1747,
+                        "y": 624,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "GAG 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "homergagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Flanders Bomb Shelter",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level1",
+                        "x": 1755,
+                        "y": 560,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "GAG 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "homergagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Tank in Front of Power Plant",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level1",
+                        "x": 678,
+                        "y": 1089,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "GAG 8",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "homergagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Homers Workstation Meltdown",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level1",
+                        "x": 722,
+                        "y": 1360,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "GAG 9-10",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "homergagfinder"
+                ],
+                "sections": [
                     {
                         "name": "School Fire Extinguisher",
                         "access_rules": [],
@@ -605,7 +719,26 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level1",
+                        "x": 2515,
+                        "y": 1142,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "GAG 11-12-13-14-15",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "homergagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Man in Freezer at Kwik-E-Mart",
                         "access_rules": [],
@@ -640,8 +773,8 @@
                 "map_locations": [
                     {
                         "map": "level1",
-                        "x": 100,
-                        "y": 300,
+                        "x": 1945,
+                        "y": 653,
                         "size": 20
                     }
                 ]
@@ -1023,27 +1156,87 @@
                         "size": 20
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
+            },
+			{
+                "name": "Time Trial Race",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+					{
                 "name": "Time Trial Race",
                 "access_rules": ["homercheckeredflag"],
                 "visibility_rules": [],
                 "item_count": 1
-            },
-            {
+					}
+				],
+			"map_locations": [
+                    {
+                        "map": "level1",
+                        "x": 467,
+                        "y": 197,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "Circuit Race",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "visibility_rules": [],
+                "sections": [
+					{
                 "name": "Circuit Race",
                 "access_rules": ["homercheckeredflag"],
                 "visibility_rules": [],
                 "item_count": 1
-            },
-            {
+					}
+				],
+			"map_locations": [
+					{
+                        "map": "level1",
+                        "x": 1927,
+                        "y": 1448,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "Checkpoint Race",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "visibility_rules": [],
+                "sections": [
+					{
                 "name": "Checkpoint Race",
                 "access_rules": ["homercheckeredflag"],
                 "visibility_rules": [],
                 "item_count": 1
-            },
+					}
+				],
+			"map_locations": [
+                    {
+                        "map": "level1",
+                        "x": 2477,
+                        "y": 695,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "Shop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    ""
+                ],
+                "sections": [
             {
                 "name": "Shop Check 1",
                 "access_rules": [],
@@ -1079,7 +1272,25 @@
                 "access_rules": [],
                 "visibility_rules": [],
                 "item_count": 1
-            },
+            }
+		],
+			"map_locations": [
+                    {
+                        "map": "level1",
+                        "x": 735,
+                        "y": 389,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "Bonus Mission",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "visibility_rules": [],
+                "sections": [
             {
                 "name": "Talk to Barney",
                 "access_rules": ["level1"],
@@ -1088,12 +1299,14 @@
             }
         ],
         "map_locations": [
-            {
+					{
                 "map": "level1",
-                "x": 100,
-                "y": 500,
+                "x": 1104,
+                "y": 437,
                 "size": 20
-            }
-        ]
-    }
+					}
+				]
+			}
+		]
+	}
 ]
