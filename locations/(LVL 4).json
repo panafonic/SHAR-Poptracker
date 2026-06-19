@@ -76,7 +76,7 @@
                 ]
             },
             {
-                "name": "WASP",
+                "name": "WASP 1-2",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -95,73 +95,301 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+					"map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 1754,
+                        "y": 720,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "WASP 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margeattack,margefrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Flanders Backyard",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								"map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 1747,
+                        "y": 532,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "WASP 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margeattack,margefrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Wiggums Backyard 1",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+												"map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 1682,
+                        "y": 327,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "WASP 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margeattack,margefrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Wiggums Backyard 2",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+												"map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 1633,
+                        "y": 333,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "WASP 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margeattack,margefrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Kwik-E-Mart Rooftop",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+												"map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 1970,
+                        "y": 659,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "WASP 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margeattack,margefrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Gas Station Rooftop",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+												"map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 1939,
+                        "y": 565,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "WASP 8",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margeattack,margefrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Atop Gasoline Pump",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+												"map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 1747,
+                        "y": 532,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "WASP 9",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margeattack,margefrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Mr. Burns Giant ChessBoard 1",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+												"map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 898,
+                        "y": 1597,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "WASP 10",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margeattack,margefrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Mr. Burns Giant ChessBoard 2",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+												"map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 898,
+                        "y": 1530,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "WASP 11",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margeattack,margefrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Mr. Burns StairCase",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								"map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 1201,
+                        "y": 1527,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "WASP 12",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margeattack,margefrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Mr. Burns Library",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+												"map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 1176,
+                        "y": 1613,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "WASP 13",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margeattack,margefrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Outside of Homers Workstation",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+												"map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 740,
+                        "y": 1371,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "WASP 14-15",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margeattack,margefrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Atop Trailer Park",
                         "access_rules": [],
@@ -173,31 +401,126 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+					"map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 533,
+                        "y": 264,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "WASP 16",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margeattack,margefrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Barn",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+												"map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 399,
+                        "y": 668,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "WASP 17",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margeattack,margefrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Behind School Steps",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+												"map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 2516,
+                        "y": 1193,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "WASP 18",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margeattack,margefrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "School Rooftop 1",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+												"map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 2475,
+                        "y": 1167,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "WASP 19",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margeattack,margefrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "School Rooftop 2",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+												"map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 2570,
+                        "y": 1159,
+                        "size": 20,
+					}
+				]
+			},
+			{
+                "name": "WASP 20",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margeattack,margefrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Atop Tower Before Broken Bridge",
                         "access_rules": [],
@@ -208,14 +531,14 @@
                 "map_locations": [
                     {
                         "map": "level4",
-                        "x": 100,
-                        "y": 200,
+                        "x": 2265,
+                        "y": 1334,
                         "size": 20
                     }
                 ]
             },
             {
-                "name": "GAG",
+                "name": "GAG 1",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -228,7 +551,26 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				                "map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 1710,
+                        "y": 625,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "GAG 2-3-4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margegagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Simpsons Swings",
                         "access_rules": [],
@@ -246,31 +588,126 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				                "map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 1747,
+                        "y": 624,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "GAG 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margegagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Krusty Lamp (Barts Room)",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				                "map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 1737,
+                        "y": 610,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "GAG 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margegagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Flanders Bomb Shelter",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				                "map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 1755,
+                        "y": 560,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "GAG 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margegagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Tank Outside Power Plant",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 678,
+                        "y": 1089,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "GAG 8",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margegagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Homers Workstation Meltdown",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 722,
+                        "y": 1360,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "GAG 9-10",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margegagfinder"
+                ],
+                "sections": [
                     {
                         "name": "School Fire Extinguisher ",
                         "access_rules": [],
@@ -282,7 +719,26 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 2515,
+                        "y": 1142,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "GAG 11-12-13-14-15",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "margegagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Frozen man in Kwik-E-Mart",
                         "access_rules": [],
@@ -317,8 +773,8 @@
                 "map_locations": [
                     {
                         "map": "level4",
-                        "x": 100,
-                        "y": 300,
+                        "x": 1945,
+                        "y": 653,
                         "size": 20
                     }
                 ]
@@ -719,27 +1175,91 @@
                         "size": 20
                     }
                 ]
-            }
-        ],
-        "sections": [
+            },
+            {
+                "name": "Checkpoint Race",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    ""
+                ],
+                "sections": [
             {
                 "name": "Checkpoint Race",
                 "access_rules": ["margecheckeredflag"],
                 "visibility_rules": [],
                 "item_count": 1
+            }
+		],
+						                "map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 1541,
+                        "y": 418,
+                        "size": 20
+                    }
+                ]
             },
+			{
+                "name": "Circuit Race",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    ""
+                ],
+                "sections": [
             {
                 "name": "Circuit Race",
                 "access_rules": ["margecheckeredflag"],
                 "visibility_rules": [],
                 "item_count": 1
+            }
+		],
+						                "map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 1752,
+                        "y": 1283,
+                        "size": 20
+                    }
+                ]
             },
+			{
+                "name": "Time Trial Race",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    ""
+                ],
+                "sections": [
             {
                 "name": "Time Trial Race",
                 "access_rules": ["margecheckeredflag"],
                 "visibility_rules": [],
                 "item_count": 1
+            }
+		],
+						                "map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 1514,
+                        "y": 1691,
+                        "size": 20
+                    }
+                ]
             },
+			{
+                "name": "Shop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    ""
+                ],
+                "sections": [
             {
                 "name": "Shop Check 1",
                 "access_rules": ["progressivewalletupgrade:3"],
@@ -775,7 +1295,26 @@
                 "access_rules": ["progressivewalletupgrade:3"],
                 "visibility_rules": [],
                 "item_count": 1
+            }
+		],
+						 "map_locations": [
+                    {
+                        "map": "level4",
+                        "x": 735,
+                        "y": 389,
+                        "size": 20
+                    }
+                ]
             },
+			{
+                "name": "Bonus Mission",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    ""
+                ],
+                "sections": [
             {
                 "name": "Talk to Willie",
                 "access_rules": ["level4"],
@@ -786,10 +1325,12 @@
         "map_locations": [
             {
                 "map": "level4",
-                "x": 100,
-                "y": 500,
+                "x": 2543,
+                "y": 1287,
                 "size": 20
             }
-        ]
-    }
+						]
+			}
+		]
+	}
 ]

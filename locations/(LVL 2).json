@@ -544,8 +544,8 @@
 				"map_locations": [
                     {
                         "map": "level2",
-                        "x": 1419,
-                        "y": 1919,
+                        "x": 1459,
+                        "y": 1930,
                         "size": 20
                     }
                 ]
@@ -569,14 +569,14 @@
                 "map_locations": [
                     {
                         "map": "level2",
-                        "x": 1994,
-                        "y": 2086,
+                        "x": 1641,
+                        "y": 2029,
                         "size": 20
                     }
                 ]
             },
             {
-                "name": "GAG",
+                "name": "GAG 1",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -589,13 +589,51 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				                "map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 2133,
+                        "y": 1891,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "GAG 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartgagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Cement Truck",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				                "map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 1846,
+                        "y": 2104,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "GAG 3-4-5-6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartgagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Pickled Egg Jar at Moes",
                         "access_rules": [],
@@ -619,31 +657,126 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				                "map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 1486,
+                        "y": 1958,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "GAG 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartgagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Rats Milk Machine atop Legitimate Businessmans Roof",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				                "map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 1404,
+                        "y": 1911,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "GAG 8",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartgagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Blinding Hans Moleman at the DMV",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				                "map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 1291,
+                        "y": 1230,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "GAG 9",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartgagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Car Ride at Try-N-Save",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				                "map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 1187,
+                        "y": 1112,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "GAG 10",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartgagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Missile Behind Military Antiques",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				                "map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 1148,
+                        "y": 1184,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "GAG 11",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartgagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Dumpster Behind Krusty Burger (Near Police Station)",
                         "access_rules": [],
@@ -654,8 +787,8 @@
                 "map_locations": [
                     {
                         "map": "level2",
-                        "x": 100,
-                        "y": 300,
+                        "x": 1761,
+                        "y": 1142,
                         "size": 20
                     }
                 ]
@@ -1091,27 +1224,91 @@
                         "size": 20
                     }
                 ]
-            }
-        ],
-        "sections": [
+            },
+			{
+                "name": "Time Trial Race",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    ""
+                ],
+                "sections": [
             {
                 "name": "Time Trial Race",
                 "access_rules": ["bartcheckeredflag"],
                 "visibility_rules": [],
                 "item_count": 1
+            }
+		],
+		                "map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 1826,
+                        "y": 1088,
+                        "size": 20
+                    }
+                ]
             },
+			{
+                "name": "Circuit Race",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    ""
+                ],
+                "sections": [
             {
                 "name": "Circuit Race",
                 "access_rules": ["bartcheckeredflag"],
                 "visibility_rules": [],
                 "item_count": 1
+            }
+		],
+		                "map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 2057,
+                        "y": 2051,
+                        "size": 20
+                    }
+                ]
             },
+			{
+                "name": "Time Trial Race",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    ""
+                ],
+                "sections": [
             {
                 "name": "Checkpoint Race",
                 "access_rules": ["bartcheckeredflag"],
                 "visibility_rules": [],
                 "item_count": 1
+            }
+		],
+			                "map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 2165,
+                        "y": 1564,
+                        "size": 20
+                    }
+                ]
             },
+			{
+                "name": "Shop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    ""
+                ],
+                "sections": [
             {
                 "name": "Shop Check 1",
                 "access_rules": ["progressivewalletupgrade:1"],
@@ -1147,7 +1344,26 @@
                 "access_rules": ["progressivewalletupgrade:1"],
                 "visibility_rules": [],
                 "item_count": 1
+            }
+		],
+		                "map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 1762,
+                        "y": 1015,
+                        "size": 20
+                    }
+                ]
             },
+			{
+                "name": "Bonus Mission",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    ""
+                ],
+                "sections": [
             {
                 "name": "Talk to Homer",
                 "access_rules": ["level2"],
@@ -1158,10 +1374,12 @@
         "map_locations": [
             {
                 "map": "level2",
-                "x": 100,
-                "y": 500,
+                "x": 2506,
+                "y": 1874,
                 "size": 20
-            }
+					}
+				]
+			}
         ]
     }
 ]
