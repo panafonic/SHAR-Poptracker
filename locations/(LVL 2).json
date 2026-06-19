@@ -76,7 +76,7 @@
                 ]
             },
             {
-                "name": "WASP",
+                "name": "WASP 1",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -89,115 +89,476 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+					"map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 2170,
+                        "y": 2069,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "WASP 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartattack,bartfrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Gazebo Between Museum and Courthouse",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 2274,
+                        "y": 2074,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "WASP 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartattack,bartfrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Museum Steps",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 2402,
+                        "y": 2195,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "WASP 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartattack,bartfrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Hospital Front Yard",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 2524,
+                        "y": 1938,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "WASP 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartattack,bartfrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Roof Across Monkey Building",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 2329,
+                        "y": 1911,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "WASP 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartattack,bartfrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Town Hall (Front)",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 2166,
+                        "y": 1769,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "WASP 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartattack,bartfrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Town Hall (Back)",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 2167,
+                        "y": 1644,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "WASP 8",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartattack,bartfrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Behind Downtown Krusty Burger",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 1798,
+                        "y": 1153,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "WASP 9",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartattack,bartfrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Monorail Stairs",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 1370,
+                        "y": 982,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "WASP 10",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartattack,bartfrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Upstair Beside Monorail",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 1358,
+                        "y": 965,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "WASP 11",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartattack,bartfrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Roof Across Monorail",
                         "access_rules": ["bdj"],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 1430,
+                        "y": 927,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "WASP 12",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartattack,bartfrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Stairs Leading atop Trains",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 1006,
+                        "y": 1708,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "WASP 13",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartattack,bartfrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Across Moving Train",
                         "access_rules": ["bdj"],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 980,
+                        "y": 1472,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "WASP 14",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartattack,bartfrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "On Train Past Water Tank",
                         "access_rules": ["bdj"],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 1068,
+                        "y": 1601,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "WASP 15",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartattack,bartfrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Inside Trainyard Parking Spot",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 1250,
+                        "y": 1631,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "WASP 16",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartattack,bartfrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Car Wash",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 1392,
+                        "y": 1726,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "WASP 17",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartattack,bartfrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Legitimate Businessmans Rooftop 1",
                         "access_rules": ["bdj"],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 1455,
+                        "y": 1895,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "WASP 18",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartattack,bartfrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Legitimate Businessmans Rooftop 2",
                         "access_rules": ["bdj"],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 1465,
+                        "y": 1873,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "WASP 19",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartattack,bartfrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Roof Next to Moes",
                         "access_rules": ["bdj"],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				"map_locations": [
+                    {
+                        "map": "level2",
+                        "x": 1419,
+                        "y": 1919,
+                        "size": 20
+                    }
+                ]
+            },
+			{
+                "name": "WASP 20",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "bartattack,bartfrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Lard Lads Roof",
                         "access_rules": ["bdj"],
@@ -208,8 +569,8 @@
                 "map_locations": [
                     {
                         "map": "level2",
-                        "x": 100,
-                        "y": 200,
+                        "x": 1994,
+                        "y": 2086,
                         "size": 20
                     }
                 ]
