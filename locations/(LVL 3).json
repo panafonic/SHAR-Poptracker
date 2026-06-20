@@ -76,7 +76,7 @@
                 ]
             },
             {
-                "name": "WASP",
+                "name": "WASP 1",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -89,115 +89,488 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				                "map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 2417,
+                        "y": 225,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "WASP 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisaattack,lisafrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Broken Railing Below Dam",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				                "map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 2390,
+                        "y": 772,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "WASP 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisaattack,lisafrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Broken Railing Above Dam (Exit)",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
                     {
-                        "name": "Kamp Krusty Near Stage",
-                        "access_rules": [],
+                        "map": "level3",
+                        "x": 2463,
+                        "y": 725,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "WASP 4 GAG 11",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    ""
+                ],
+                "sections": [
+                    {
+                        "name": "[WASP] Kamp Krusty Near Stage",
+                        "access_rules": ["lisaattack,lisafrink-o-maticwaspbumper"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
+					{
+                        "name": "[GAG] Boars Head at Kamp Krusty",
+                        "access_rules": ["lisagagfinder"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+				],
+					"map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 2171,
+                        "y": 559,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "WASP 5",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisaattack,lisafrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Kamp Krusty Well",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 2123,
+                        "y": 593,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "WASP 6",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisaattack,lisafrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Exit of Kamp Krustys Well",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 2005,
+                        "y": 557,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "WASP 7",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisaattack,lisafrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Motel Complex",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 2162,
+                        "y": 430,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "WASP 8",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisaattack,lisafrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Duff Brewery Behind Krusty Glass",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 1156,
+                        "y": 519,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "WASP 9",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisaattack,lisafrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Duff Blimp 1",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+				                "map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 1306,
+                        "y": 499,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "WASP 10",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisaattack,lisafrink-o-maticwaspbumper"
+                ],
+                "sections": [				
                     {
                         "name": "Duff Blimp 2",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 1286,
+                        "y": 472,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "WASP 11",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisaattack,lisafrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Krusty Studio Left",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 1426,
+                        "y": 760,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "WASP 12",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisaattack,lisafrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Krusty Studio Right",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 1414,
+                        "y": 881,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "WASP 13",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisaattack,lisafrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Globex Ship Front End",
-                        "access_rules": ["ldj"],
+                        "access_rules": [""],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
                     {
-                        "name": "Globex Ship Next to the Crane",
-                        "access_rules": ["ldj"],
+                        "map": "level3",
+                        "x": 1284,
+                        "y": 1104,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "WASP 14 GAG 10",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisaattack,lisafrink-o-maticwaspbumper"
+                ],
+                "sections": [
+                    {
+                        "name": "[WASP] Globex Ship Next to the Crane",
+                        "access_rules": [""],
                         "visibility_rules": [],
                         "item_count": 1
                     },
+					{
+                        "name": "[GAG] Crane on Ship",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+				],
+								                "map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 1199,
+                        "y": 1063,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "WASP 15",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisaattack,lisafrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Globex Ship Stairs",
                         "access_rules": ["ldj"],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 898,
+                        "y": 1108,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "WASP 16",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisaattack,lisafrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "LightHouse",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 819,
+                        "y": 1171,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "WASP 17",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisaattack,lisafrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Planet Hype",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 943,
+                        "y": 1399,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "WASP 18",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisaattack,lisafrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Beach",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 853,
+                        "y": 1400,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "WASP 19",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisaattack,lisafrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Bowling Rooftop",
                         "access_rules": ["ldj"],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 1624,
+                        "y": 1611,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "WASP 20",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisaattack,lisafrink-o-maticwaspbumper"
+                ],
+                "sections": [
                     {
                         "name": "Comic Book Guy Rooftop",
                         "access_rules": [],
@@ -208,14 +581,14 @@
                 "map_locations": [
                     {
                         "map": "level3",
-                        "x": 100,
-                        "y": 200,
+                        "x": 2077,
+                        "y": 1311,
                         "size": 20
                     }
                 ]
             },
             {
-                "name": "GAG",
+                "name": "GAG 1-2",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -234,25 +607,76 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 2064,
+                        "y": 1280,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "GAG 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisagagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Yellow Dumpster Across Krusty Burger",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 2159,
+                        "y": 1189,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "GAG 4",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisagagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Kid Drowning in Ball Pit",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+								                "map_locations": [
                     {
-                        "name": "Crane on Ship",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
+                        "map": "level3",
+                        "x": 2121,
+                        "y": 1322,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "GAG 5-6-7-8",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisagagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Observatory Alarm",
                         "access_rules": [],
@@ -276,25 +700,38 @@
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
+                    }
+				],
+												                "map_locations": [
+                    {
+                        "map": "level3",
+                        "x": 2399,
+                        "y": 234,
+                        "size": 20
+                    }
+                ]
+            },
+			            {
+                "name": "GAG 9",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "lisagagfinder"
+                ],
+                "sections": [
                     {
                         "name": "Kamp Krusty Flag",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    },
-                    {
-                        "name": "Boars Head at Kamp Krusty",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
                     }
-                ],
-                "map_locations": [
+				],
+				 "map_locations": [
                     {
                         "map": "level3",
-                        "x": 100,
-                        "y": 300,
+                        "x": 2145,
+                        "y": 594,
                         "size": 20
                     }
                 ]
@@ -719,27 +1156,91 @@
                         "size": 20
                     }
                 ]
-            }
-        ],
-        "sections": [
+            },
+		{
+                "name": "Time Trial Race",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    ""
+                ],
+                "sections": [
             {
                 "name": "Time Trial Race",
                 "access_rules": ["lisacheckeredflag"],
                 "visibility_rules": [],
                 "item_count": 1
-            },
+            }
+		],
+		        "map_locations": [
+            {
+                "map": "level3",
+                "x": 1160,
+                "y": 1197,
+                "size": 20
+            }
+        ]
+	},
+				            {
+                "name": "Circuit Race",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    ""
+                ],
+                "sections": [
             {
                 "name": "Circuit Race",
                 "access_rules": ["lisacheckeredflag"],
                 "visibility_rules": [],
                 "item_count": 1
-            },
+            }
+		],
+				        "map_locations": [
+            {
+                "map": "level3",
+                "x": 2163,
+                "y": 156,
+                "size": 20
+            }
+        ]
+	},
+				            {
+                "name": "Checkpoint Race",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    ""
+                ],
+                "sections": [
             {
                 "name": "Checkpoint Race",
                 "access_rules": ["lisacheckeredflag"],
                 "visibility_rules": [],
                 "item_count": 1
-            },
+            }
+		],
+				        "map_locations": [
+            {
+                "map": "level3",
+                "x": 1265,
+                "y": 651,
+                "size": 20
+            }
+        ]
+	},
+				            {
+                "name": "Shop",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    ""
+                ],
+                "sections": [
             {
                 "name": "Shop Check 1",
                 "access_rules": ["progressivewalletupgrade:2"],
@@ -775,7 +1276,26 @@
                 "access_rules": ["progressivewalletupgrade:2"],
                 "visibility_rules": [],
                 "item_count": 1
-            },
+            }
+		],
+				        "map_locations": [
+            {
+                "map": "level3",
+                "x": 1202,
+                "y": 1200,
+                "size": 20
+            }
+        ]
+	},
+				            {
+                "name": "Bonus Mission",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    ""
+                ],
+                "sections": [
             {
                 "name": "Talk to Otto",
                 "access_rules": ["level3"],
@@ -786,10 +1306,13 @@
         "map_locations": [
             {
                 "map": "level3",
-                "x": 100,
-                "y": 500,
+                "x": 2218,
+                "y": 611,
                 "size": 20
-            }
-        ]
+			}
+				]
+           }
+		   ]
     }
 ]
+
