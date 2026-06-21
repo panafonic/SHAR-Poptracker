@@ -81,7 +81,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "homerattack,homerfrink-o-maticwaspbumper"
+                    "homerattack","homerfrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
@@ -106,7 +106,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "homerattack,homerfrink-o-maticwaspbumper"
+                    "homerattack","homerfrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
@@ -131,7 +131,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "homerattack,homerfrink-o-maticwaspbumper"
+                    "homerattack"
                 ],
                 "sections": [
                     {
@@ -156,7 +156,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "homerattack,homerfrink-o-maticwaspbumper"
+                    "homerattack"
                 ],
                 "sections": [
                     {
@@ -181,7 +181,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "homerattack,homerfrink-o-maticwaspbumper"
+                    "homerattack"
                 ],
                 "sections": [
                     {
@@ -206,7 +206,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "homerattack,homerfrink-o-maticwaspbumper"
+                    "homerattack"
                 ],
                 "sections": [
                     {
@@ -231,7 +231,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "homerattack,homerfrink-o-maticwaspbumper"
+                    "homerattack"
                 ],
                 "sections": [
                     {
@@ -256,7 +256,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "homerattack,homerfrink-o-maticwaspbumper"
+                    "homerattack"
                 ],
                 "sections": [
                     {
@@ -281,7 +281,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "homerattack,homerfrink-o-maticwaspbumper"
+                    "homerattack","homerfrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
@@ -306,7 +306,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "homerattack,homerfrink-o-maticwaspbumper"
+                    "homerattack"
                 ],
                 "sections": [
                     {
@@ -331,7 +331,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "homerattack,homerfrink-o-maticwaspbumper"
+                    "homerattack"
                 ],
                 "sections": [
                     {
@@ -356,7 +356,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "homerattack,homerfrink-o-maticwaspbumper"
+                    "homerattack"
                 ],
                 "sections": [
                     {
@@ -381,7 +381,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "homerattack,homerfrink-o-maticwaspbumper"
+                    "homerattack","homerfrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
@@ -406,7 +406,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "homerattack,homerfrink-o-maticwaspbumper"
+                    "homerattack","homerfrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
@@ -437,7 +437,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "homerattack,homerfrink-o-maticwaspbumper"
+                    "homerattack","homerfrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
@@ -462,18 +462,18 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "homerattack,homerfrink-o-maticwaspbumper"
+                    "homerattack"
                 ],
                 "sections": [
                     {
                         "name": "Trailer Park 1",
-                        "access_rules": ["hsj","nerdcar"],
+                        "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Trailer Park 2",
-                        "access_rules": ["hdj"],
+                        "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -493,7 +493,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "homerattack,homerfrink-o-maticwaspbumper"
+                    "homerattack,hdj"
                 ],
                 "sections": [
                     {
@@ -518,7 +518,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "homerattack,homerfrink-o-maticwaspbumper"
+                    "homerattack"
                 ],
                 "sections": [
                     {

@@ -81,7 +81,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "bartattack,bartfrink-o-maticwaspbumper"
+                    "bartattack"
                 ],
                 "sections": [
                     {
@@ -106,7 +106,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "bartattack,bartfrink-o-maticwaspbumper"
+                    "bartattack"
                 ],
                 "sections": [
                     {
@@ -131,7 +131,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "bartattack,bartfrink-o-maticwaspbumper"
+                    "bartattack","bartfrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
@@ -162,7 +162,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "bartattack,bartfrink-o-maticwaspbumper"
+                    "bartattack"
                 ],
                 "sections": [
                     {
@@ -187,7 +187,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "bartattack,bartfrink-o-maticwaspbumper"
+                    "bartattack"
                 ],
                 "sections": [
                     {
@@ -212,7 +212,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "bartattack,bartfrink-o-maticwaspbumper"
+                    "bartattack"
                 ],
                 "sections": [
                     {
@@ -237,7 +237,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "bartattack,bartfrink-o-maticwaspbumper"
+                    "bartattack","bartfrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
@@ -262,7 +262,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "bartattack,bartfrink-o-maticwaspbumper"
+                    "bartattack","bartfrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
@@ -287,7 +287,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "bartattack,bartfrink-o-maticwaspbumper"
+                    "bartattack"
                 ],
                 "sections": [
                     {
@@ -312,7 +312,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "bartattack,bartfrink-o-maticwaspbumper"
+                    "bartattack"
                 ],
                 "sections": [
                     {
@@ -337,7 +337,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "bartattack,bartfrink-o-maticwaspbumper"
+                    "bartattack"
                 ],
                 "sections": [
                     {
@@ -368,7 +368,7 @@
                     {
                         "name": "[WASP] Globex Ship Crane",
                         "access_rules": [""],
-                        "visibility_rules": ["bartattack,bartfrink-o-maticwaspbumper"],
+                        "visibility_rules": ["bartattack","bartfrink-o-maticwaspbumper"],
                         "item_count": 1
                     },
 					     {
@@ -393,12 +393,12 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "bartattack,bartfrink-o-maticwaspbumper"
+                    "bartattack","bartfrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
                         "name": "Globex Ship Staircase 1",
-                        "access_rules": ["bdj"],
+                        "access_rules": [""],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -418,12 +418,12 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "bartattack,bartfrink-o-maticwaspbumper"
+                    "bartattack","bartfrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
                         "name": "Globex Ship Staircase 2",
-                        "access_rules": ["bdj"],
+                        "access_rules": [""],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -443,7 +443,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "bartattack,bartfrink-o-maticwaspbumper"
+                    "bartattack","bartfrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
@@ -468,7 +468,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "bartattack,bartfrink-o-maticwaspbumper"
+                    "bartattack"
                 ],
                 "sections": [
                     {
@@ -493,7 +493,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "bartattack,bartfrink-o-maticwaspbumper"
+                    "bartattack"
                 ],
                 "sections": [
                     {
@@ -518,7 +518,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "bartattack,bartfrink-o-maticwaspbumper"
+                    "bartattack"
                 ],
                 "sections": [
                     {
@@ -543,7 +543,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "bartattack,bartfrink-o-maticwaspbumper"
+                    "bartattack"
                 ],
                 "sections": [
                     {
@@ -1238,7 +1238,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "bartattack,bartfrink-o-maticwaspbumper"
+                    "progressivewalletupgrade:5"
                 ],
                 "sections": [
             {

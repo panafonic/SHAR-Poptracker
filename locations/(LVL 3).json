@@ -80,8 +80,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [
-                    "lisaattack,lisafrink-o-maticwaspbumper"
+                "access_rules":
+				[
+                    "lisaattack"
                 ],
                 "sections": [
                     {
@@ -106,7 +107,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "lisaattack,lisafrink-o-maticwaspbumper"
+                    "lisaattack"
                 ],
                 "sections": [
                     {
@@ -131,7 +132,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "lisaattack,lisafrink-o-maticwaspbumper"
+                    "lisaattack"
                 ],
                 "sections": [
                     {
@@ -161,7 +162,7 @@
                 "sections": [
                     {
                         "name": "[WASP] Kamp Krusty Near Stage",
-                        "access_rules": ["lisaattack,lisafrink-o-maticwaspbumper"],
+                        "access_rules": ["lisaattack"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -187,7 +188,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "lisaattack,lisafrink-o-maticwaspbumper"
+                    "lisaattack"
                 ],
                 "sections": [
                     {
@@ -212,7 +213,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "lisaattack,lisafrink-o-maticwaspbumper"
+                    "lisaattack","lisafrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
@@ -237,7 +238,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "lisaattack,lisafrink-o-maticwaspbumper"
+                    "lisaattack"
                 ],
                 "sections": [
                     {
@@ -262,7 +263,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "lisaattack,lisafrink-o-maticwaspbumper"
+                    "lisaattack","lisafrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
@@ -287,7 +288,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "lisaattack,lisafrink-o-maticwaspbumper"
+                    "lisaattack","lisafrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
@@ -312,7 +313,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "lisaattack,lisafrink-o-maticwaspbumper"
+                    "lisaattack","lisafrink-o-maticwaspbumper"
                 ],
                 "sections": [				
                     {
@@ -337,7 +338,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "lisaattack,lisafrink-o-maticwaspbumper"
+                    "lisaattack"
                 ],
                 "sections": [
                     {
@@ -362,7 +363,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "lisaattack,lisafrink-o-maticwaspbumper"
+                    "lisaattack"
                 ],
                 "sections": [
                     {
@@ -387,7 +388,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "lisaattack,lisafrink-o-maticwaspbumper"
+                    "lisaattack"
                 ],
                 "sections": [
                     {
@@ -412,18 +413,18 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "lisaattack,lisafrink-o-maticwaspbumper"
+                    ""
                 ],
                 "sections": [
                     {
                         "name": "[WASP] Globex Ship Next to the Crane",
-                        "access_rules": [""],
+                        "access_rules": ["lisaattack","lisafrink-o-maticwaspbumper"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
 					{
                         "name": "[GAG] Crane on Ship",
-                        "access_rules": [],
+                        "access_rules": ["lisagagfinder"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -443,12 +444,12 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "lisaattack,lisafrink-o-maticwaspbumper"
+                    "lisaattack","lisafrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
                         "name": "Globex Ship Stairs",
-                        "access_rules": ["ldj"],
+                        "access_rules": [""],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -467,13 +468,14 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [
-                    "lisaattack,lisafrink-o-maticwaspbumper"
+                "access_rules":
+				[
+                   "lisaattack","lisafrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
                         "name": "LightHouse",
-                        "access_rules": [],
+                        "access_rules": [""],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -493,7 +495,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "lisaattack,lisafrink-o-maticwaspbumper"
+                    "lisaattack"
                 ],
                 "sections": [
                     {
@@ -518,7 +520,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "lisaattack,lisafrink-o-maticwaspbumper"
+                    "lisaattack","lisafrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
@@ -543,7 +545,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "lisaattack,lisafrink-o-maticwaspbumper"
+                    "lisaattack"
                 ],
                 "sections": [
                     {
@@ -556,8 +558,8 @@
 								                "map_locations": [
                     {
                         "map": "level3",
-                        "x": 1624,
-                        "y": 1611,
+                        "x": 1672,
+                        "y": 1617,
                         "size": 20
                     }
                 ]
@@ -568,7 +570,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "lisaattack,lisafrink-o-maticwaspbumper"
+                    "lisaattack"
                 ],
                 "sections": [
                     {

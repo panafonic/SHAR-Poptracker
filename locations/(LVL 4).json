@@ -81,7 +81,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "margeattack,margefrink-o-maticwaspbumper"
+                    "margeattack","margefrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
@@ -112,7 +112,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "margeattack,margefrink-o-maticwaspbumper"
+                    "margeattack"
                 ],
                 "sections": [
                     {
@@ -137,7 +137,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "margeattack,margefrink-o-maticwaspbumper"
+                    "margeattack"
                 ],
                 "sections": [
                     {
@@ -162,7 +162,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "margeattack,margefrink-o-maticwaspbumper"
+                    "margeattack"
                 ],
                 "sections": [
                     {
@@ -187,7 +187,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "margeattack,margefrink-o-maticwaspbumper"
+                    "margeattack"
                 ],
                 "sections": [
                     {
@@ -212,7 +212,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "margeattack,margefrink-o-maticwaspbumper"
+                    "margeattack"
                 ],
                 "sections": [
                     {
@@ -237,7 +237,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "margeattack,margefrink-o-maticwaspbumper"
+                    "margeattack"
                 ],
                 "sections": [
                     {
@@ -250,8 +250,8 @@
 												"map_locations": [
                     {
                         "map": "level4",
-                        "x": 1747,
-                        "y": 532,
+                        "x": 1983,
+                        "y": 600,
                         "size": 20,
 					}
 				]
@@ -262,7 +262,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "margeattack,margefrink-o-maticwaspbumper"
+                    "margeattack","margefrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
@@ -287,7 +287,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "margeattack,margefrink-o-maticwaspbumper"
+                    "margeattack","margefrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
@@ -312,7 +312,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "margeattack,margefrink-o-maticwaspbumper"
+                    "margeattack"
                 ],
                 "sections": [
                     {
@@ -337,7 +337,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "margeattack,margefrink-o-maticwaspbumper"
+                    "margeattack"
                 ],
                 "sections": [
                     {
@@ -362,7 +362,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "margeattack,margefrink-o-maticwaspbumper"
+                    "margeattack"
                 ],
                 "sections": [
                     {
@@ -387,7 +387,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "margeattack,margefrink-o-maticwaspbumper"
+                    "margeattack"
                 ],
                 "sections": [
                     {
@@ -418,7 +418,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "margeattack,margefrink-o-maticwaspbumper"
+                    "margeattack","margefrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
@@ -443,7 +443,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "margeattack,margefrink-o-maticwaspbumper"
+                    "margeattack","margefrink-o-maticwaspbumper"
                 ],
                 "sections": [
                     {
@@ -468,7 +468,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "margeattack,margefrink-o-maticwaspbumper"
+                    "margeattack"
                 ],
                 "sections": [
                     {
@@ -493,7 +493,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "margeattack,margefrink-o-maticwaspbumper"
+                    "margeattack"
                 ],
                 "sections": [
                     {
@@ -518,7 +518,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "margeattack,margefrink-o-maticwaspbumper"
+                    "margeattack"
                 ],
                 "sections": [
                     {
@@ -1257,7 +1257,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    ""
+                    "progressivewalletupgrade:3"
                 ],
                 "sections": [
             {
